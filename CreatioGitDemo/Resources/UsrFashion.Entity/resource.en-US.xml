@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Fasion" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Price" />
+			<Item Name="Columns.UsrString1.Caption" Value="String 1" />
+			<Item Name="Columns.UsrType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>
