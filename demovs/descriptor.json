@@ -1,0 +1,16 @@
+{
+  "Descriptor": {
+    "UId": "cc7c8991-1cd4-4c20-ad77-78b35f70fc7f",
+    "PackageVersion": "7.8.0",
+    "Name": "demovs",
+    "ModifiedOnUtc": "/Date(1736511640000)/",
+    "Maintainer": "",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}
