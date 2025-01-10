@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "6e94d208-0fb8-43f0-bdde-c585af2a69b0",
     "Name": "UsrFastionType",
-    "ModifiedOnUtc": "\/Date(1736419279030)\/",
+    "ModifiedOnUtc": "\/Date(1736419239030)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"
