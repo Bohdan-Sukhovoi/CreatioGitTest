@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "405370e3-2dfd-4825-9db6-2d241cf811b6",
+    "Name": "UsrFashionTag",
+    "ModifiedOnUtc": "\/Date(1736419297000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Fasion section tag",
+    "DependsOn": []
+  }
+}

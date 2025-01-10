@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c9477fef-28ce-47d6-a1a9-c5e5fb1193ff",
+    "Name": "UsrFashion",
+    "ModifiedOnUtc": "\/Date(1736419282000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Fasion",
+    "DependsOn": []
+  }
+}
